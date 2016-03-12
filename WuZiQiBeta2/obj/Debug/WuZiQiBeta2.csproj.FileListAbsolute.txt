@@ -1,0 +1,13 @@
+D:\documents\visual studio 2013\Projects\WuZiQiBeta2\WuZiQiBeta2\bin\Debug\WuZiQiBeta2.exe.config
+D:\documents\visual studio 2013\Projects\WuZiQiBeta2\WuZiQiBeta2\obj\Debug\WuZiQiBeta2.csprojResolveAssemblyReference.cache
+D:\documents\visual studio 2013\Projects\WuZiQiBeta2\WuZiQiBeta2\obj\Debug\MainWindow.baml
+D:\documents\visual studio 2013\Projects\WuZiQiBeta2\WuZiQiBeta2\obj\Debug\MainWindow.g.cs
+D:\documents\visual studio 2013\Projects\WuZiQiBeta2\WuZiQiBeta2\obj\Debug\App.g.cs
+D:\documents\visual studio 2013\Projects\WuZiQiBeta2\WuZiQiBeta2\obj\Debug\WuZiQiBeta2_MarkupCompile.cache
+D:\documents\visual studio 2013\Projects\WuZiQiBeta2\WuZiQiBeta2\obj\Debug\WuZiQiBeta2.g.resources
+D:\documents\visual studio 2013\Projects\WuZiQiBeta2\WuZiQiBeta2\obj\Debug\WuZiQiBeta2.Properties.Resources.resources
+D:\documents\visual studio 2013\Projects\WuZiQiBeta2\WuZiQiBeta2\obj\Debug\WuZiQiBeta2.csproj.GenerateResource.Cache
+D:\Documents\visual studio 2013\Projects\WuZiQiBeta2\WuZiQiBeta2\bin\Debug\WuZiQiBeta2.exe
+D:\Documents\visual studio 2013\Projects\WuZiQiBeta2\WuZiQiBeta2\bin\Debug\WuZiQiBeta2.pdb
+D:\Documents\visual studio 2013\Projects\WuZiQiBeta2\WuZiQiBeta2\obj\Debug\WuZiQiBeta2.exe
+D:\Documents\visual studio 2013\Projects\WuZiQiBeta2\WuZiQiBeta2\obj\Debug\WuZiQiBeta2.pdb
